@@ -1,0 +1,12 @@
+{
+  "interval": 5.0,
+  "timeout": 2.0,
+  "max_concurrent": 16,
+  "fail_threshold": 2,
+  "heartbeat_minutes": 0,
+  "retain_days": 30,
+  "history_size": 120,
+  "log_dir": "network_logs",
+  "server_file": "server_list.txt",
+  "window_geometry": "1280x880+320+76"
+}
